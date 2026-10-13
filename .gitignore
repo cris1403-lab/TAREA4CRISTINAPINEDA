@@ -1,0 +1,6 @@
+Online Retail.xlsx
+__pycache__/
+.ipynb_checkpoints/
+*.aux
+*.log
+*.out
